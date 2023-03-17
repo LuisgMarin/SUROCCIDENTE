@@ -59,6 +59,12 @@
 
 }
 
+.imagen2 {
+    height: 250px;
+    width: 450px;
+
+}
+
 .izquierda {
     float: left;
     justify-content: center;
